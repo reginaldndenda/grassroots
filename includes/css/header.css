@@ -1,0 +1,42 @@
+﻿.CharOverride-18 {
+    color: #ffffff;
+    font-size: 37px;
+    font-style: normal;
+    font-weight: bold;
+    font-family: "Helvetica Neue (TT)", sans-serif;
+    height: 60px;
+    position: relative;
+    top: 65px;
+    width: 540px;
+    float: right;
+}
+
+.CharOverride-19{
+font-family: "Open Sans Semibold", sans-serif;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 600;
+}
+
+.CharOverride-20{
+font-family: "Helvetica Neue (TT)", sans-serif;
+font-size: 17px;
+    position: relative;
+    left: 145px;
+    top: 15px;
+}
+
+.panel-heading{
+    background-color: #009ddc;
+    border-width: 0px;
+    color: #ffffff;
+}
+.navbar{
+    float: right;
+    margin-right: 35px;}
+.navbar a{
+    font-weight:bold!important;
+    color:#444444!important;
+}
+
+.container-fluid{width:100%;padding:0;margin:0;}

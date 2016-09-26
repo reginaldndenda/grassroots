@@ -1,0 +1,325 @@
+﻿
+
+
+.fill-screen {
+    background-size: cover;
+    background-position: center;
+}
+#homeContainer {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: -31px;
+    margin-left: auto;
+}
+#brand-image {
+    width: 214px;
+
+}
+.navbar-inverse{
+    hieght: 100px;
+}
+/*index page
+#text-welcome {
+    width: 479px;
+    margin-left: 560px;
+    margin-top: 237px;
+}
+#header-welcome{
+    width:100px;
+}*/
+.grassrootsLogo{
+    /*background-image: url('../../includes/image/playingCricket.PNG');*/
+    background-image: url('../../includes/image/gabba.jpg');
+    color: white;
+
+    background-size: cover;
+    background-position: center;
+    min-height:600px;
+    font-family: "Helvetica Neue (TT)", sans-serif;
+    font-size: 44px;
+
+}
+
+
+.cricketStadium{
+    background-image: url('../../includes/image/grassroots.jpg');
+    color: green;
+
+    background-size: cover;
+    background-position: center;
+    min-height:900px;
+    font-family: "Helvetica Neue (TT)", sans-serif;
+    font-size: 44px;
+
+}
+.down-button{
+    position: absolute;
+    bottom: -400px;
+    width:100%;
+    text-align: center;
+}
+.down-button i{
+    color: red;
+}
+.batBall {
+    /*background-image: url('../../includes/image/batandBall.PNG'); */
+    background-image: url('../../includes/image/cricketball.jpg');
+    color: white;
+
+    background-size: cover;
+    background-position: center;
+    min-height: 600px;
+    font-family: "Helvetica Neue (TT)", sans-serif;
+    font-size: 44px;
+}
+.btn-transparent {
+    background-color: #333333;
+    color: white;
+    font-family: "Open Sans", sans-serif;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: bold;
+    min-height: 42px;
+    width: 592px;
+}
+.search-tab {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
+    float: right;
+    height: 35px;
+    margin: 10px 30px 0 0;
+    position: relative;
+    width: 154px !important;
+}
+.logo {
+    float: left;
+    width: 50%;
+    padding-bottom: 44px;
+}
+#logo-text{
+    width:100px  !important;
+    font-family: "Helvetica Neue (TT)", sans-serif;
+    font-size: 44px;
+
+}
+.navbar-brand {
+    float: left;
+    height: 100px;
+}
+.nav-bar-header{
+    width:15px;
+}
+#rod{
+    width: 171px;
+}
+#cate{
+    width: 171px;
+    height: 200px;
+}
+#tawa{
+
+    height: 200px;
+}
+.services {
+    margin-top: 50px;
+}
+.wrapper {
+    max-width: 1200px;
+    width: 95%;
+    margin: auto;
+    position: relative;
+    display: block;
+}
+.tab-3 {
+    width: 33.3%;
+    float: left;
+}
+.services-tab {
+    max-width: 300px;
+    display: block;
+    margin: 20px auto;
+    width: 100%;
+}
+.services-images {
+    text-align: center;
+}
+.container {
+    width: 100%;
+    float: left;
+    position: relative;
+}
+.donate .services-images a {
+    display: block;
+    margin: 0 auto;
+    width: 100px;
+    height: 100px;
+    background: url(../../includes/image/donateIcon.png) no-repeat;
+}
+.involved .services-images a {
+    display: block;
+    margin: 0 auto;
+    width: 100px;
+    height: 100px;
+    background: url(../../includes/image/getinvolvedIcon.png) no-repeat;
+}
+.whatwedo .services-images a {
+    display: block;
+    margin: 0 auto;
+    width: 100px;
+    height: 100px;
+    background: url(../../includes/image/questionIcon.png) no-repeat;
+}
+.services-images img {
+    width: 100px;
+    vertical-align: middle;
+}
+.services-tab h2 {
+    color: #066839;
+    font-size: 30px;
+    text-align: center;
+}
+.services-tab p {
+    color: #666666;
+    text-align: center;
+}
+
+.btn-trans-mid {
+    color: #066839;
+    display: table;
+    float: none;
+    margin: 10px auto;
+    border: 2px solid #066839;
+    padding: 5px 40px;
+    min-width: 80px;
+    text-align: center;
+    font-size: 16px;
+    background: rgba(255, 255, 255, 0.4);
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.services-images img {
+    width: 100px;
+    vertical-align: middle;
+}
+#toTop{
+    position: fixed;
+    bottom: 95px;
+    right: 40px;
+    cursor: pointer;
+    display: none;
+}
+.scroll-text {
+    border: 1px solid red;
+    width: 400px;
+    height: 4.5em;
+    overflow: hidden;
+}
+.scroll-text ul {
+    width: 800px;
+    height: 100px;
+    overflow: hidden;
+    margin: 0;
+}
+.scroll-text ul li {
+    height: 1.5em;
+}
+.scroll-img {
+    border: 1px solid #657b29;
+    width: 782px;
+    height: 237px;
+    overflow: hidden;
+    font-size: 0;
+}
+#demo4{
+    margin: 59px 502px 20px;
+}
+.scroll-img ul {
+    width: 700px;
+    height: 600px;
+    margin: 0;
+}
+.scroll-img ul li {
+    display: inline-block;
+    margin: 10px 0 10px 10px;
+}
+#demo4.scroll-img ul
+ {
+    width: 1500px;
+}
+
+#toTop .fa {margin-right: 5px;}
+
+.jumbotron {
+    background: #ED1B24;
+    color: #FFF;
+    border-radius: 0px;
+}
+.jumbotron-sm { padding-top: 24px;
+    padding-bottom: 24px; }
+.jumbotron small {
+    color: #FFF;
+}
+.h1 small {
+    font-size: 24px;
+}
+hr {
+    display: block;
+    -webkit-margin-before: 0.5em;
+    -webkit-margin-after: 0.5em;
+    -webkit-margin-start: auto;
+    -webkit-margin-end: auto;
+    border-style: inset;
+    border-width: 1px;
+}
+#contactImage{
+    margin: 0 auto;
+}
+.row {
+    margin-bottom: 20px;
+}
+.customButton{
+    background:green;
+    border: 4px solid white;
+    border-radius:1em;
+    font-size:24px;
+    padding:1em 3em;
+    /*CSS center element trick*/
+
+    top: 50%;
+    left: 50%;
+
+    position:relative;
+    -webkit-transform:
+            translate(-50%, -50%);
+    transform:
+            translate(-50%, -50%);
+    -webkit-transition-property:
+            all;
+    -webkit-transition-duration:
+            1s;
+    -webkit-transition-timing-function:
+            ease-out;
+    transition-property:
+            all;
+    transition-duration:
+            1s;
+    transition-timing-function:
+            ease-out;
+}
+
+.customButton:hover{
+    background:red;
+    color:green;
+    font-size:34px;
+
+}
+
+#footerCustom {
+    background-color: #262626;
+}
+
+
+    .navbar-nav>li>a {
+        padding-top: 30px;
+        padding-bottom: 15px;
+        font-size: x-large;
+    }
